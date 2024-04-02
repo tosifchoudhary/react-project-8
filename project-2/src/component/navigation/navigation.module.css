@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    height:10vh;
+    justify-content: space-between;
+    align-items: center;
+   
+  }
+.ul{
+    display:flex;
+    gap:1rem;
+  }
+.ul li{
+    list-style: none;
+}

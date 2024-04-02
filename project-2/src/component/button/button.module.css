@@ -1,0 +1,13 @@
+.primary_btn{
+    padding:10px 18px;
+    background-color: black;
+    color: white;
+    border-radius:5px;
+   border:none;
+   outline: none;
+   min-width:200px;
+   display: flex;
+   align-items: center;
+   gap:10px;
+   justify-content: space-around;
+}
